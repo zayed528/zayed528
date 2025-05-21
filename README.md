@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Zayed Ali 👋<br><br>🎓 I’m a rising sophomore at **The Ohio State University**, majoring in **Computer Science and Engineering**.<br><br>💻 I enjoy building software and learning new technologies. I have hands-on experience with:<br>- **Java**<br>- **Python**<br>- **SQL**<br>- **HTML**<br><br>🔍 I'm especially interested in solving real-world problems through programming and exploring the intersections of software and system design.<br><br>📫 Feel free to connect with me: **zayed528ali@gmail.com**<br><br>Thanks for visiting my profile!<br>
+# Hi, I'm Zayed Ali 👋<br><br>🎓 I’m a rising sophomore at **The Ohio State University**, majoring in **Computer Science and Engineering**.<br><br>💻 I enjoy building software and learning new technologies. I have hands-on experience with:<br>- **Java**<br>- **Python**<br>- **JavaScript**<br>- **C#**<br>- **SQL**<br>- **HTML5**<br>- **CSS**<br>🔍 I'm especially interested in solving real-world problems through programming and exploring the intersections of software and system design.<br><br>📫 Feel free to connect with me: **zayed528ali@gmail.com**<br><br>Thanks for visiting my profile!<br>
 
 
 ## 🌐 Socials:
